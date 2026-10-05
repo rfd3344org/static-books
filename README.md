@@ -1,1 +1,10 @@
-# static-book
+# static-books
+
+
+
+
+# chinese-novels
+- open with chrome 
+
+
+
